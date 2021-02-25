@@ -12,7 +12,7 @@
 
 O <strong>NPS-API</strong> é uma API Restful para Net Promoter Score.
 
-Aplicação web construída na trilha <strong>NodeJS</strong> da <strong>Next Level Week</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/).
+Aplicação back-end construída na trilha <strong>NodeJS</strong> da <strong>Next Level Week</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/).
 
 ## 🚀 Tecnologias
 
