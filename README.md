@@ -82,6 +82,7 @@ Para testar se a aplicação passa em todos os testes de integração, utilize o
 - [Aula 2](https://www.notion.so/danileao/Dia-2-Iniciando-com-o-Banco-de-Dados-ffa8a141872641b7b13338f339d7a69b)
 - [Aula 3](https://www.notion.so/Dia-3-Testando-a-nossa-aplica-o-6b517e6d081241258009c640f7032cde)
 - [Aula 4](https://www.notion.so/danileao/Dia-4-Envio-de-e-mail-1b85cb36f0a84e5e90a43e3acbce5674)
+- [Aula 5](https://www.notion.so/Dia-5-Finalizando-nossa-api-com-valida-es-1f972c0e73a548fc84217ddf79fb7d90)
 
 ## 📝 License
 
