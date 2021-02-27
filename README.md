@@ -22,8 +22,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Express](https://expressjs.com/pt-br/)
 - [TypeORM](https://typeorm.io/)
 - [nodemailer](https://nodemailer.com/about/)
-- [uuid](https://www.npmjs.com/package/uuid)
-
 - [Yup](https://github.com/jquense/yup)
 
 ## ⤵ Comandos para começar
