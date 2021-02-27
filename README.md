@@ -24,6 +24,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [nodemailer](https://nodemailer.com/about/)
 - [uuid](https://www.npmjs.com/package/uuid)
 
+- [Yup](https://github.com/jquense/yup)
+
 ## ⤵ Comandos para começar
 
 Foram implementados testes de integração.
